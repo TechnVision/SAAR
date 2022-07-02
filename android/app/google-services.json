@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943405664949",
+    "project_id": "saar-7faab",
+    "storage_bucket": "saar-7faab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943405664949:android:ff95b2c7f433fce2608cfc",
+        "android_client_info": {
+          "package_name": "com.texinfotech.saarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943405664949-bkac9dlm4agc6i29vnlb781flqdtu72t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.texinfotech.saarapp",
+            "certificate_hash": "277678e381aab416b5f9bd6de13bacd77a97031d"
+          }
+        },
+        {
+          "client_id": "943405664949-nn9u2s2n6uce82ksusnl59nvl1i68v1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc97PEtwh429lhxw_JmyScK0PB1EcsWtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943405664949-nn9u2s2n6uce82ksusnl59nvl1i68v1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
